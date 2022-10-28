@@ -14,17 +14,20 @@ Some topics covered include (but not limited to):
   - Intermediate JavaScript
   - Building web app in React framework
   - Building an API with Express.js
+<br><br>
 
 **College of Computer Sciences** @ University of Massachusetts Amherst, Massachusetts, USA _(Sep 2018 - Jun 2019)_ <br>
 Studied for one academic year at the College of Computer Sciences
   - CS121 (Centered around Java)
   - Built strong foundations for OOP programming
+<br><br>
 
 **High School** @ East Windsor High School, East Windsor, Connecticut, USA _(Sep 2014 - Jun 2018)_ <br>
 Graduated 2018
 Founder of the "Coding Club" at EWHS
   - Provided fellow students the opportunity to learn through Codecademy and discuss web development concepts and languages at a school lacking STEM curriculum. Coding Club at EWHS is still active to this day.
   - Received "Certificate of Special Recognition" on behalf of East Windsor High School for creating "Coding Club" and building interactive school projects in HTML, CSS, and JavaScript.
+<br><br>
 
 ## 💻 Employment 
 
@@ -33,6 +36,7 @@ Hired to develop and maintain a website built using HTML, CSS, JavaScript, and
 Bootstrap for Drillcom Oy. Currently being refactored in React.
   - Allow the company to expand internationally
   - Communicate technical ideas with non-technical users
+<br><br>
 
 **Courier/Kitchen Manager** @ Pizza Time, Windsor Locks, Connecticut, USA _(Jun 2019 - Aug 2021)_ <br>
 Manager of a successful pizza restaurant
@@ -41,6 +45,7 @@ Skills acquired:
   - Maintaining teamwork under high stress situations or high workload
   - Maintaining a high standard of finished products
   - Client-business relation
+<br><br>
 
 ## 🙋‍♂️ Internships
 
@@ -48,6 +53,7 @@ Skills acquired:
   - Fixed website connectivity issues by reconfiguring DNS settings
   - Helped staff with day to day IT issues
   - Helped staff understand new software implications
+<br><br>
 
 ## 🎓 Certificates
 
@@ -62,12 +68,14 @@ Core concepts:
   - Markdown
   - Collaboration with Github
   - Bash Command Line
+<br><br>
 
 **Codecademy: Building Interactive Javascript Websites Course** _(May 2022)_ <br>
 Core concepts:
   - Semantic HTML
   - CSS Layouts and Flexbox
   - Intermediate JavaScript (_Manipulating the DOM, Working with APIs, Async, Modules, Promises, Error Handling_)
+<br><br>
 
 ## 💬 Languages
 
