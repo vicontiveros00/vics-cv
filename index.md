@@ -2,7 +2,7 @@
 
 _Frontend Developer based in Nokia 🇫🇮_ <br>
 
-[Email](mailto:vontiverosewhs@gmail.com) / [Website](https://vicontiveros00.github.io/) [Github](https://github.com/vicontiveros00)
+[Email](mailto:vontiverosewhs@gmail.com) / [Website](https://vicontiveros00.github.io/) / [Github](https://github.com/vicontiveros00)
 
 `HTML5` / `CSS3` / `Bootstrap` / `JavaScript` / `React` / `Git and Github` / `Node.js` / `SQL` / `APIs with Express.js`
 
