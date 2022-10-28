@@ -9,7 +9,7 @@ _Frontend Developer based in Nokia 🇫🇮_ <br>
 ## 📚 Education
 
 **Codecademy Web Developer Program** @ [Codecademy](https://www.codecademy.com/) _(Completed Oct 2022)_ <br>
-A full-stack online course accompanied by mentors and a thriving community of developers.
+A full-stack online course accompanied by mentors and a thriving community of developers.<br>
 Some topics covered include (but not limited to):
   - Intermediate JavaScript
   - Building web app in React framework
@@ -39,7 +39,7 @@ Bootstrap for Drillcom Oy. Currently being refactored in React.
 <br><br>
 
 **General Manager** @ Pizza Time, Windsor Locks, Connecticut, USA _(Jun 2019 - Aug 2021)_ <br>
-Manager of a successful pizza restaurant
+Manager of a successful pizza restaurant<br>
 Skills acquired:
   - Leadership
   - Maintaining teamwork under high stress situations or high workload
@@ -62,7 +62,7 @@ Skills acquired:
 **Codecademy: Completion of Web Development Skill Path** _(Oct 2022)_ <br>
 
 **Codecademy: Learn Git, Github & Command Line Course** _(Sep 2022)_ <br>
-Streamline workflow and collaboration
+Streamline workflow and collaboration<br>
 Core concepts:
   - Github Workflow
   - Markdown
