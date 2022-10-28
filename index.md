@@ -38,7 +38,7 @@ Bootstrap for Drillcom Oy. Currently being refactored in React.
   - Communicate technical ideas with non-technical users
 <br><br>
 
-**Courier/Kitchen Manager** @ Pizza Time, Windsor Locks, Connecticut, USA _(Jun 2019 - Aug 2021)_ <br>
+**General Manager** @ Pizza Time, Windsor Locks, Connecticut, USA _(Jun 2019 - Aug 2021)_ <br>
 Manager of a successful pizza restaurant
 Skills acquired:
   - Leadership
