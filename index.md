@@ -73,5 +73,10 @@ Core concepts:
 
 🇺🇸 **English**: Native <br>
 🇪🇸 **Spanish**: Latin American and European <br>
-🇫🇮 **Finnish**: Level B1.1
+🇫🇮 **Finnish**: Level B1.1<br>
+
+## Other Details
+
+**Driving License**: Class B <br>
+**Nationality**: USA (_Finnish Residence Permit Type A, Unrestricted right to employment_)
 <br><br>
