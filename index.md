@@ -61,6 +61,16 @@ Skills acquired:
 
 **Codecademy: Completion of Web Development Skill Path** _(Oct 2022)_ <br>
 
+**Codecademy: Completion of Intermediate JavaScript Course** _(Oct 2022)_ <br>
+Core concepts:
+  - Classes 
+  - Modules
+  - Promises
+  - Async-Await
+  - API Requests
+  - Error handling
+<br><br>
+
 **Codecademy: Learn Git, Github & Command Line Course** _(Sep 2022)_ <br>
 Streamline workflow and collaboration<br>
 Core concepts:
