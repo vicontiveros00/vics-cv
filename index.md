@@ -23,7 +23,7 @@ Studied for one academic year at the College of Computer Sciences
 <br><br>
 
 **High School** @ East Windsor High School, East Windsor, Connecticut, USA _(Sep 2014 - Jun 2018)_ <br>
-Graduated 2018
+Graduated 2018<br>
 Founder of the "Coding Club" at EWHS
   - Provided fellow students the opportunity to learn through Codecademy and discuss web development concepts and languages at a school lacking STEM curriculum. Coding Club at EWHS is still active to this day.
   - Received "Certificate of Special Recognition" on behalf of East Windsor High School for creating "Coding Club" and building interactive school projects in HTML, CSS, and JavaScript.
