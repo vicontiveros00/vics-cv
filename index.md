@@ -82,9 +82,8 @@ Core concepts:
 
 **Codecademy: Building Interactive Javascript Websites Course** _(May 2022)_ <br>
 Core concepts:
-  - Semantic HTML
-  - CSS Layouts and Flexbox
-  - Intermediate JavaScript (_Manipulating the DOM, Working with APIs, Async, Modules, Promises, Error Handling_)
+  - Interplay between JavaScript and HTML & CSS
+  - Dynamically build, modify, and style elements on a page
 <br><br>
 
 ## 💬 Languages
