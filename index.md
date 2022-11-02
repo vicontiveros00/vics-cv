@@ -12,7 +12,7 @@ _Frontend Developer based in Nokia 🇫🇮_ <br>
 A full-stack online course accompanied by mentors and a thriving community of developers.<br>
 Some topics covered include (but not limited to):
   - Intermediate JavaScript
-  - Building web app in React framework
+  - Building web apps in React framework
   - Building an API with Express.js
 <br><br>
 
