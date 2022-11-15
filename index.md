@@ -17,7 +17,7 @@ Some topics covered include (but not limited to):
 <br><br>
 
 **College of Computer Sciences** @ University of Massachusetts Amherst, Massachusetts, USA _(Sep 2018 - Jun 2019)_ <br>
-Studied for one academic year at the College of Computer Sciences
+Attended the College of Computer Sciences @ UMass Amherst
   - CS121 (Centered around Java)
   - Built strong foundations for OOP programming
 <br><br>
